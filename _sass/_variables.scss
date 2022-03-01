@@ -26,6 +26,7 @@ $pagination-separator-color: $paleGray;
 // Font stacks
 $sans-font-family: -apple-system, BlinkMacSystemFont, Verdana, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", Roboto, "Apple Color Emoji", "Helvetica Neue", Helvetica, "Noto Sans", Arial, sans-serif;
 $code-font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
+$nav-font-family: Verdana, sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
